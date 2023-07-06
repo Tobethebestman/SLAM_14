@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yynn/SLAM_14/ch6/fitByg2o/g2oCurveFitting.cpp
+iostream
+-
+g2o/core/g2o_core_api.h
+-
+g2o/core/base_vertex.h
+-
+g2o/core/base_unary_edge.h
+-
+g2o/core/block_solver.h
+-
+g2o/core/optimization_algorithm_levenberg.h
+-
+g2o/core/optimization_algorithm_gauss_newton.h
+-
+g2o/core/optimization_algorithm_dogleg.h
+-
+g2o/solvers/dense/linear_solver_dense.h
+-
+eigen3/Eigen/Core
+-
+opencv4/opencv2/core/core.hpp
+-
+cmath
+-
+chrono
+-
+

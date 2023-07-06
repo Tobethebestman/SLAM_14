@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yynn/SLAM_14/ch7/3d2d/opnp.cpp
+iostream
+-
+opencv4/opencv2/core/core.hpp
+-
+opencv4/opencv2/features2d/features2d.hpp
+-
+opencv4/opencv2/highgui/highgui.hpp
+-
+opencv4/opencv2/calib3d/calib3d.hpp
+-
+eigen3/Eigen/Core
+-
+sophus/se3.hpp
+/home/yynn/SLAM_14/ch7/3d2d/sophus/se3.hpp
+chrono
+-
+g2o/core/base_vertex.h
+-
+g2o/core/base_unary_edge.h
+-
+g2o/core/sparse_optimizer.h
+-
+g2o/core/block_solver.h
+-
+g2o/core/solver.h
+-
+g2o/core/optimization_algorithm_gauss_newton.h
+-
+g2o/solvers/dense/linear_solver_dense.h
+-
+

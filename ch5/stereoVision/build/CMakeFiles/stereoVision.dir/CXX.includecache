@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yynn/SLAM_14/ch5/stereoVision/stereoVision.cpp
+opencv2/opencv.hpp
+-
+vector
+-
+string
+-
+eigen3/Eigen/Core
+-
+pangolin/pangolin.h
+-
+unistd.h
+-
+

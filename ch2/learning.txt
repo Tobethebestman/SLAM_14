@@ -1,0 +1,17 @@
+0. file introduction
+   main.cpp: an executable program
+   libHello.cpp: a library program
+   libHello.h: library's header program
+   useHello.cpp: an executable program using library"libHello"
+   CMakeLists.txt: tell cmake what to do
+   build.folder: a folder contains middle_files when camke compiles
+
+1. compile the cmake program
+   create a terminal in the target folder
+	--mkdir build
+	--cd build
+	--camke ..
+	--make
+	--./program_name
+
+2. 

@@ -1,0 +1,3 @@
+/home/yynn/SLAM_14/ch6/fitByHand/build/CMakeFiles/rebuild_cache.dir
+/home/yynn/SLAM_14/ch6/fitByHand/build/CMakeFiles/edit_cache.dir
+/home/yynn/SLAM_14/ch6/fitByHand/build/CMakeFiles/gaussNewton.dir

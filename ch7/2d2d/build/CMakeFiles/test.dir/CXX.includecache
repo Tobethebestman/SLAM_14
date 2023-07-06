@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yynn/SLAM_14/ch7/2d2d/test.cpp
+iostream
+-
+opencv4/opencv2/core/core.hpp
+-
+opencv4/opencv2/features2d/features2d.hpp
+-
+opencv4/opencv2/highgui/highgui.hpp
+-
+opencv4/opencv2/calib3d/calib3d.hpp
+-
+chrono
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yynn/SLAM_14/ch6/fitByCeres/ceresCurveFitting.cpp
+iostream
+-
+opencv4/opencv2/core/core.hpp
+-
+ceres/ceres.h
+-
+chrono
+-
+

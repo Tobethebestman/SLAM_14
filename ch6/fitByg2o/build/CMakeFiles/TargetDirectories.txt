@@ -1,0 +1,3 @@
+/home/yynn/SLAM_14/ch6/fitByg2o/build/CMakeFiles/rebuild_cache.dir
+/home/yynn/SLAM_14/ch6/fitByg2o/build/CMakeFiles/edit_cache.dir
+/home/yynn/SLAM_14/ch6/fitByg2o/build/CMakeFiles/g2oFit.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yynn/SLAM_14/ch7/featureMatch/orb_cv.cpp
+iostream
+-
+opencv4/opencv2/core/core.hpp
+-
+opencv4/opencv2/features2d/features2d.hpp
+-
+opencv4/opencv2/highgui/highgui.hpp
+-
+chrono
+-
+

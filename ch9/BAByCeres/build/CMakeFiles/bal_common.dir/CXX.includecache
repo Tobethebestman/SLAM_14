@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yynn/SLAM_14/ch9/BAByCeres/common.cpp
+cstdio
+-
+fstream
+-
+iostream
+-
+string
+-
+vector
+-
+eigen3/Eigen/Core
+-
+eigen3/Eigen/Dense
+-
+common.h
+/home/yynn/SLAM_14/ch9/BAByCeres/common.h
+rotation.h
+/home/yynn/SLAM_14/ch9/BAByCeres/rotation.h
+random.h
+/home/yynn/SLAM_14/ch9/BAByCeres/random.h
+
+/home/yynn/SLAM_14/ch9/BAByCeres/common.h
+
+/home/yynn/SLAM_14/ch9/BAByCeres/random.h
+math.h
+-
+stdlib.h
+-
+
+/home/yynn/SLAM_14/ch9/BAByCeres/rotation.h
+algorithm
+-
+cmath
+-
+limits
+-
+

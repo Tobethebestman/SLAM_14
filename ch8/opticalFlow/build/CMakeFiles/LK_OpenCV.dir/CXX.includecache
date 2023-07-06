@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yynn/SLAM_14/ch8/opticalFlow/LKByOpenCV.cpp
+iostream
+-
+opencv4/opencv2/opencv.hpp
+-
+string
+-
+chrono
+-
+eigen3/Eigen/Core
+-
+eigen3/Eigen/Dense
+-
+
